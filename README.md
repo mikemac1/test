@@ -1,2 +1,3 @@
-# test
-My repository called test
+# Mike's Dogs
+
+This repository is about Mike's Dogs
